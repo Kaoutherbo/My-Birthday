@@ -1,6 +1,6 @@
 # Kaouther's Birthday Celebration Website
 
-🎉 Happy Birthday, Kaouther Boutheldja! 🎂
+🎉 **`Happy Birthday, Kaouther Boutheldja!`** 🎂
 
 Welcome to a special place created just for you! This website is not just a celebration of another trip around the sun;
 it's a virtual embrace of your incredible journey, a testament to your ambitions, and a canvas painted with the hues of your dreams.
