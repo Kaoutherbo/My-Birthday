@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 ---
 
-**Note:** This README is a personalized template; ensure to replace `https://your-website-url.com` with your actual hosting URL and customize other sections according to your preferences.
+**Note:** This README is a personalized template; ensure to replace `[https://github.com/Kaoutherbo/My-Birthday]` with your actual hosting URL and customize other sections according to your preferences.
