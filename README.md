@@ -18,7 +18,7 @@ born on the memorable day of **`01/01/2005`**. It's more than a website; it's a 
 
 ## Getting Started
 
-To embark on this virtual celebration, simply visit [https://github.com/Kaoutherbo/My-Birthday)](https://github.com/Kaoutherbo/My-Birthday)) and let the festivities begin!
+To embark on this virtual celebration, simply visit [https://github.com/Kaoutherbo/My-Birthday)](https://github.com/Kaoutherbo/My-Birthday) and let the festivities begin!
 
 ## Experience
 
