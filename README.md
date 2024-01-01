@@ -41,6 +41,3 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 - A heartfelt thank you to Kaouther Boutheldja for being a beacon of inspiration.
 - May this day mark the beginning of another year filled with achievements, adventures, and all the success you deserve.
 
----
-
-**Note:** This README is a personalized template; ensure to replace `[https://github.com/Kaoutherbo/My-Birthday]` with your actual hosting URL and customize other sections according to your preferences.
